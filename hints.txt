@@ -1,0 +1,20 @@
+git add signal.c
+git commit -m "Practica 2"    -comentario, iteracion, algo que identifique la actualizacion-
+git push origin main
+
+gcc -o nombre nombre.c
+./nombre  -corre el programa-
+pwd     muestra la direccion
+execl("direccion de archivo", "nombre que le damos al programa.exe", NULL);
+
+code nombre .c
+push origin main
+
+$export PATH=$PATH:/workspace/InternetDeLasCosas
+
+ps : procesos que estan corriendo el usuario
+ps -fea 
+kill manda señales
+kill -l señales activas
+kill -12 
+kill -19 """" detiene un proceso
